@@ -5,7 +5,7 @@ Web Crawlers são rastreadores da web, eles devem obter o conteudo da página de
 Esse sistema pode ser utilizado, por exemplo, para: Gerar um mapa do site e contar quantos designs de paginas seriam necessários e o volume de conteudo que seria migrado ou também para coleta de dados.
 
 Estrutura:
-
+![Arquitetura Web Crawler Simplificada - Autociência](https://user-images.githubusercontent.com/49458473/131128205-e2d3ff3f-6a7b-41f8-85e7-01c653948a4d.png)
 API Http
 Metodo get
 Metodo Post
@@ -20,6 +20,7 @@ Tecnologias utilizadas:
 Java, Apache Maven, Docker, Eclipse IDE
 
 Bibliotecas utilizadas:
+https://github.com/perwendel/spark
 
 Jsoup, Spark, Gson, SLF4J, JUnit5, Hamcrest, Apache commons Lang e Mockito
 
