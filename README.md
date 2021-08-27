@@ -22,9 +22,7 @@ Bibliotecas utilizadas:
 
 Jsoup, Spark, Gson, SLF4J, JUnit5, Hamcrest, Apache commons Lang e Mockito
 
-
-
-
+![crawler](https://user-images.githubusercontent.com/49458473/131124764-4482b7f2-5c01-442c-91c4-fb78a1cc53a4.png)
 
 
 
