@@ -1,4 +1,4 @@
-# Web-Crawler
+# ✨ Web-Crawler
 Essa aplicação navega por um site em busca de termos fornecidos pelo usuário
 
 Web Crawlers são rastreadores da web, eles devem obter o conteudo da página de um URL, analisar essa pagina e repetir esse processo.
