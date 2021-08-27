@@ -15,6 +15,7 @@ Para evitar que a mesma página fosse rastreada mais de uma vez
 
 
 Tecnologias utilizadas:
+[![html Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![dddocckkeer Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)[![ecippse Badge](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white&link=https://github.com/prisciladuarte)](https://github.com/prisciladuarte)
 
 Java, Apache Maven, Docker, Eclipse IDE
 
